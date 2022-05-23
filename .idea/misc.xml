@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PAM/Baru/app/src/main/res/layout/activity_edit_teman.xml" value="0.1" />
         <entry key="..\:/PAM/Baru/app/src/main/res/layout/activity_tambah_teman.xml" value="0.2" />
         <entry key="..\:/PAM/Baru/app/src/main/res/layout/row_data_teman.xml" value="0.2" />
+        <entry key="..\:/PAM/Baru/app/src/main/res/menu/popup_menu.xml" value="0.1" />
       </map>
     </option>
   </component>

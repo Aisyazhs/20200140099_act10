@@ -13,6 +13,8 @@
         android:usesCleartextTraffic="true"
         android:theme="@style/Theme.Tugasbaru">
         <activity
+            android:name=".EditTeman"></activity>
+        <activity
             android:name=".TambahTeman"
             android:exported="false" />
         <activity
